@@ -1,8 +1,7 @@
 # Welcome to **Guinify** 🚀
 
-[**English**](#english) | [**Français**](#français)
-
 ---
+
 
 **Guinify** is an organization dedicated to developing and promoting innovative technological solutions for **Guinea** and **Africa**.
 
